@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.java.lab2.controllers.OperationsDialogController">
+   <children>
+      <TableView fx:id="operationsTable" focusTraversable="false" layoutX="176.0" layoutY="91.0" prefHeight="200.0" prefWidth="200.0" AnchorPane.bottomAnchor="32.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <columns>
+          <TableColumn fx:id="columnUser" maxWidth="6000.0" minWidth="30.0" prefWidth="75.0" text="Пользователь" />
+            <TableColumn fx:id="columnFile" prefWidth="75.0" text="Файл" />
+            <TableColumn fx:id="columnDate" prefWidth="75.0" text="Дата" />
+            <TableColumn fx:id="columnInfo" maxWidth="-1.0" minWidth="400.0" prefWidth="75.0" text="Операция" />
+        </columns>
+         <columnResizePolicy>
+            <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+         </columnResizePolicy>
+         <effect>
+            <ColorAdjust hue="-0.76" saturation="0.09" />
+         </effect>
+      </TableView>
+      <TextField fx:id="txtSearch" focusTraversable="false" layoutX="767.0" layoutY="11.0" maxHeight="-Infinity" minHeight="-Infinity" prefHeight="28.0" prefWidth="350.0" promptText="Поиск" AnchorPane.bottomAnchor="3.0" AnchorPane.leftAnchor="3.0" />
+   </children>
+</AnchorPane>

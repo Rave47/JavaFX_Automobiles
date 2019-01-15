@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="340.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.java.lab2.controllers.RegDialogController">
+   <children>
+      <Label alignment="CENTER" layoutX="260.0" layoutY="14.0" prefWidth="120.0" text="Регистрация" AnchorPane.leftAnchor="190.0" AnchorPane.topAnchor="10.0">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="lbProducer" alignment="CENTER" layoutX="20.0" layoutY="51.0" prefHeight="31.0" prefWidth="140.0" text="Имя" AnchorPane.leftAnchor="10.0" AnchorPane.topAnchor="49.0">
+         <HBox.margin>
+            <Insets left="20.0" />
+         </HBox.margin>
+      </Label>
+      <TextField fx:id="txtName" layoutX="100.0" layoutY="51.0" prefHeight="31.0" prefWidth="300.0" AnchorPane.leftAnchor="150.0" AnchorPane.topAnchor="50.0">
+         <HBox.margin>
+            <Insets right="20.0" />
+         </HBox.margin>
+      </TextField>
+      <Label fx:id="lbModel" alignment="CENTER" layoutX="20.0" layoutY="87.0" prefHeight="31.0" prefWidth="140.0" text="Логин" AnchorPane.leftAnchor="10.0" AnchorPane.topAnchor="89.0">
+         <HBox.margin>
+            <Insets left="20.0" />
+         </HBox.margin>
+      </Label>
+      <TextField fx:id="txtLogin" layoutX="100.0" layoutY="87.0" prefHeight="31.0" prefWidth="300.0" AnchorPane.leftAnchor="150.0" AnchorPane.topAnchor="90.0">
+         <HBox.margin>
+            <Insets right="20.0" />
+         </HBox.margin>
+      </TextField>
+      <Label fx:id="lbPrice" alignment="CENTER" layoutX="20.0" layoutY="128.0" prefHeight="31.0" prefWidth="140.0" text="Пароль" AnchorPane.leftAnchor="10.0" AnchorPane.topAnchor="129.0">
+         <HBox.margin>
+            <Insets left="20.0" />
+         </HBox.margin>
+      </Label>
+      <PasswordField fx:id="txtPassword" prefHeight="31.0" prefWidth="300.0" AnchorPane.leftAnchor="150.0" AnchorPane.topAnchor="130.0" />
+      <Label fx:id="lbPrice1" alignment="CENTER" layoutX="30.0" layoutY="138.0" prefHeight="31.0" prefWidth="140.0" text="Повторить пароль" AnchorPane.leftAnchor="10.0" AnchorPane.topAnchor="169.0" />
+      <Label fx:id="lbError" alignment="CENTER" layoutX="148.0" layoutY="220.0" prefHeight="60.0" prefWidth="460.0" textAlignment="CENTER" textFill="RED" underline="true" AnchorPane.bottomAnchor="60.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <PasswordField fx:id="txtPasswordCheck" layoutX="10.0" layoutY="10.0" prefHeight="31.0" prefWidth="300.0" AnchorPane.leftAnchor="150.0" AnchorPane.topAnchor="170.0" />
+      <Button fx:id="butConfirm" defaultButton="true" layoutX="156.0" layoutY="297.0" mnemonicParsing="false" onAction="#actionConfirm" prefWidth="80.0" text="ОК" AnchorPane.bottomAnchor="15.0" AnchorPane.leftAnchor="165.0">
+         <HBox.margin>
+            <Insets left="175.0" right="10.0" />
+         </HBox.margin>
+      </Button>
+      <Button fx:id="butCancel" cancelButton="true" layoutX="250.0" layoutY="297.0" mnemonicParsing="false" onAction="#actionClose" prefWidth="80.0" text="Отмена" AnchorPane.bottomAnchor="15.0" AnchorPane.rightAnchor="165.0" />
+   </children>
+</AnchorPane>

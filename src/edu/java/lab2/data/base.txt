@@ -1,0 +1,66 @@
+BMW
+X5
+2013
+Germany
+Andrei (admin)
+
+Volkswagen
+Polo
+2017
+Russia
+Ekaterina (kater)
+
+Renault
+Logan
+2016
+Russia
+Sergey (sergei)
+
+Volkswagen
+Jetta
+2017
+Russia
+Andrei (admin)
+
+KIA
+Cerato
+2014
+South Korea
+Andrei (admin)
+
+Mitsubishi
+ASX
+2016
+Japan
+ 
+
+Audi
+A4
+2015
+Germany
+ 
+
+Ferrari
+458
+2014
+Italy
+ 
+
+Mitsubishi
+Lancer
+2011
+Japan
+ 
+
+KIA
+Rio
+2016
+South Korea
+ 
+
+Hyndai
+Elantra
+2012
+South Korea
+Nikita (mrbender)
+

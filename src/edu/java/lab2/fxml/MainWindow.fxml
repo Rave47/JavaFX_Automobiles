@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox fx:id="vBox" prefHeight="556.0" prefWidth="1005.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.java.lab2.controllers.MainController">
+   <children>
+      <MenuBar fx:id="menuBar" prefHeight="0.0" prefWidth="708.0">
+        <menus>
+          <Menu fx:id="menuFile" mnemonicParsing="false" text="Файл">
+            <items>
+              <MenuItem fx:id="miNew" mnemonicParsing="false" onAction="#newFile" text="Новый" />
+                  <MenuItem fx:id="miOpen" mnemonicParsing="false" onAction="#openFile" text="Открыть" />
+                  <MenuItem fx:id="miSave" disable="true" mnemonicParsing="false" onAction="#saveFile" text="Сохранить" />
+                  <MenuItem fx:id="miSaveAs" disable="true" mnemonicParsing="false" onAction="#saveFileAs" text="Сохранить как" />
+                  <MenuItem fx:id="miReport" disable="true" mnemonicParsing="false" onAction="#createReport" text="Сгенерировать отчет" />
+                  <MenuItem fx:id="miExit" mnemonicParsing="false" onAction="#closeProgram" text="Выход" />
+            </items>
+          </Menu>
+          <Menu fx:id="menuEdit" mnemonicParsing="false" text="Правка">
+            <items>
+              <MenuItem fx:id="miAdd" disable="true" mnemonicParsing="false" onAction="#addObject" text="Добавить" />
+                  <MenuItem fx:id="miEdit" disable="true" mnemonicParsing="false" onAction="#editObject" text="Изменить" />
+                  <MenuItem fx:id="miDelete" disable="true" mnemonicParsing="false" onAction="#removeObject" text="Удалить" />
+                  <MenuItem fx:id="miDeleteAll" disable="true" mnemonicParsing="false" onAction="#removeList" text="Удалить все" />
+            </items>
+          </Menu>
+            <Menu fx:id="menuAdmin" mnemonicParsing="false" text="Администрирование" visible="false">
+              <items>
+                <MenuItem fx:id="miOperations" mnemonicParsing="false" text="История активности" />
+                  <MenuItem fx:id="miUsers" mnemonicParsing="false" text="Список пользователей" />
+              </items>
+            </Menu>
+        </menus>
+      </MenuBar>
+      <AnchorPane fx:id="anchorPane" pickOnBounds="false" prefHeight="528.0" prefWidth="1005.0" VBox.vgrow="ALWAYS">
+         <children>
+          <Button fx:id="butNew" layoutX="10.0" layoutY="1.0" mnemonicParsing="false" onAction="#newFile" AnchorPane.leftAnchor="5.0" AnchorPane.topAnchor="1.0">
+               <graphic>
+                  <ImageView fitHeight="30.0" fitWidth="20.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../img/new.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="butOpen" layoutX="68.0" layoutY="1.0" mnemonicParsing="false" onAction="#openFile" AnchorPane.leftAnchor="45.0" AnchorPane.topAnchor="1.0">
+               <graphic>
+                  <ImageView fitHeight="30.0" fitWidth="20.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../img/open.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="butSave" disable="true" layoutX="130.0" layoutY="1.0" mnemonicParsing="false" onAction="#saveFile" AnchorPane.leftAnchor="85.0" AnchorPane.topAnchor="1.0">
+               <graphic>
+                  <ImageView fitHeight="30.0" fitWidth="20.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../img/save1.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="butAdd" disable="true" layoutX="150.0" layoutY="1.0" mnemonicParsing="false" onAction="#addObject" AnchorPane.leftAnchor="125.0" AnchorPane.topAnchor="1.0">
+               <graphic>
+                  <ImageView fitHeight="30.0" fitWidth="20.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../img/add1.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="butEdit" disable="true" layoutX="230.0" layoutY="1.0" mnemonicParsing="false" onAction="#editObject" AnchorPane.leftAnchor="165.0" AnchorPane.topAnchor="1.0">
+               <graphic>
+                  <ImageView fitHeight="30.0" fitWidth="20.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../img/edit.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="butDelete" disable="true" layoutX="250.0" layoutY="1.0" mnemonicParsing="false" onAction="#removeObject" AnchorPane.leftAnchor="205.0" AnchorPane.topAnchor="1.0">
+               <graphic>
+                  <ImageView fitHeight="30.0" fitWidth="20.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../img/delete1.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="butOperations" layoutX="245.0" layoutY="1.0" mnemonicParsing="false" onAction="#showOperationsDialog" visible="false" AnchorPane.leftAnchor="245.0" AnchorPane.topAnchor="1.0">
+               <graphic>
+                  <ImageView fitHeight="30.0" fitWidth="20.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../img/list.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <effect>
+                  <ColorAdjust hue="-0.75" saturation="0.35" />
+               </effect>
+            </Button>
+            <Button fx:id="butUsers" layoutX="285.0" layoutY="1.0" mnemonicParsing="false" onAction="#showUserListWindow" visible="false" AnchorPane.leftAnchor="285.0" AnchorPane.topAnchor="1.0">
+               <graphic>
+                  <ImageView fitHeight="30.0" fitWidth="20.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../img/user.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <effect>
+                  <ColorAdjust hue="-0.75" saturation="0.35" />
+               </effect>
+            </Button>
+            <Button fx:id="butReserve" disable="true" layoutX="260.0" layoutY="11.0" mnemonicParsing="false" onAction="#reserveObject" AnchorPane.leftAnchor="325.0" AnchorPane.topAnchor="1.0">
+               <graphic>
+                  <ImageView fitHeight="30.0" fitWidth="20.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../img/reserve.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <TextField fx:id="txtSearch" disable="true" focusTraversable="false" layoutX="757.0" layoutY="1.0" maxHeight="-Infinity" minHeight="-Infinity" prefHeight="28.0" prefWidth="240.0" promptText="Поиск" AnchorPane.rightAnchor="5.0" />
+            <TitledPane fx:id="titledPane" animated="false" collapsible="false" focusTraversable="false" layoutY="30.0" AnchorPane.bottomAnchor="25.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="30.0">
+               <content>
+                  <TableView fx:id="tableData" disable="true" focusTraversable="false" layoutY="30.0" pickOnBounds="false" prefHeight="366.0" prefWidth="1005.0" AnchorPane.bottomAnchor="25.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="30.0">
+                    <columns>
+                      <TableColumn fx:id="columnProducer" editable="false" maxWidth="500.0" minWidth="100.0" prefWidth="200.0" text="Производитель" />
+                        <TableColumn fx:id="columnModel" maxWidth="500.0" minWidth="100.0" prefWidth="200.0" text="Модель" />
+                      <TableColumn fx:id="columnRelease" maxWidth="500.0" minWidth="100.0" prefWidth="120.0" text="Год выпуска" />
+                        <TableColumn fx:id="columnBirthplace" maxWidth="500.0" minWidth="100.0" prefWidth="150.0" text="Страна сборки" />
+                        <TableColumn fx:id="columnOwner" maxWidth="500.0" minWidth="100.0" prefWidth="150.0" text="Владелец" />
+                    </columns>
+                     <columnResizePolicy>
+                        <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                     </columnResizePolicy>
+                     <effect>
+                        <ColorAdjust hue="-0.8" saturation="0.15" />
+                     </effect>
+                  </TableView>
+               </content>
+            </TitledPane>
+            <Label fx:id="lbStatus" layoutX="12.0" layoutY="487.0" prefHeight="21.0" prefWidth="387.0" text="Всего объектов: " AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="5.0" />
+            <Label fx:id="lbLastAction" alignment="CENTER_RIGHT" layoutX="516.0" layoutY="508.0" prefHeight="21.0" prefWidth="364.0" text=" " AnchorPane.bottomAnchor="0.0" AnchorPane.rightAnchor="5.0" />
+            <Label fx:id="lbCrtUser" alignment="CENTER" layoutX="366.0" layoutY="1.0" prefHeight="28.0" prefWidth="387.0" textFill="#13ae28" AnchorPane.leftAnchor="365.0" AnchorPane.rightAnchor="254.0">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+         </children>
+         <VBox.margin>
+         </VBox.margin>
+      </AnchorPane>
+   </children>
+</VBox>

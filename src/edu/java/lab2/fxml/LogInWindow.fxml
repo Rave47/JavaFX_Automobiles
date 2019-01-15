@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="210.0" prefWidth="320.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.java.lab2.controllers.LogInController">
+   <children>
+      <TextField fx:id="txtLogin" layoutX="133.0" layoutY="55.0" prefHeight="31.0" prefWidth="220.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="50.0" />
+      <PasswordField fx:id="txtPassword" prefHeight="31.0" prefWidth="220.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="90.0" />
+      <Label alignment="CENTER" layoutX="62.0" layoutY="60.0" prefWidth="70.0" text="Логин" AnchorPane.leftAnchor="10.0" AnchorPane.topAnchor="55.0" />
+      <Label alignment="CENTER" layoutX="56.0" layoutY="111.0" prefWidth="70.0" text="Пароль" AnchorPane.leftAnchor="10.0" AnchorPane.topAnchor="95.0" />
+      <Label alignment="CENTER" layoutX="243.0" layoutY="34.0" prefWidth="60.0" text="Вход" AnchorPane.leftAnchor="130.0" AnchorPane.topAnchor="10.0">
+         <font>
+            <Font name="System Bold" size="20.0" />
+         </font>
+      </Label>
+      <Button fx:id="butLog" defaultButton="true" layoutX="133.0" layoutY="255.0" mnemonicParsing="false" onAction="#login" prefWidth="120.0" text="Вход" AnchorPane.bottomAnchor="10.0" AnchorPane.leftAnchor="35.0" />
+      <Button fx:id="butReg" layoutX="250.0" layoutY="255.0" mnemonicParsing="false" onAction="#registration" prefWidth="120.0" text="Регистрация" AnchorPane.bottomAnchor="10.0" AnchorPane.rightAnchor="35.0" />
+      <Label fx:id="lbError" alignment="CENTER" layoutX="110.0" layoutY="155.0" prefHeight="30.0" prefWidth="300.0" textFill="#ff0909" underline="true" AnchorPane.bottomAnchor="55.0" AnchorPane.leftAnchor="10.0" />
+   </children>
+</AnchorPane>

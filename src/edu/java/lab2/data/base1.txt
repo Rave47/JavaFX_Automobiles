@@ -1,0 +1,66 @@
+BMW
+X5
+2013
+Germany
+2 000 000 
+
+Volkswagen
+Polo
+2017
+Russia
+650 000 
+
+Volkswagen
+Jetta
+2017
+Russia
+1 300 000 
+
+KIA
+Cerato
+2014
+South Korea
+650 000 
+
+Mitsubishi
+ASX
+2016
+Japan
+1 140 000 
+
+Audi
+A4
+2015
+Germany
+2 200 000 
+
+Ferrari
+458
+2014
+Italy
+5 600 000 
+
+Mitsubishi
+Lancer
+2012
+Japan
+600 000 
+
+KIA
+Rio
+2016
+South Korea
+850 000 
+
+Hyndai
+Elantra
+2012
+South Korea
+1 150 000 
+
+Bentley
+Continental
+2010
+United Kingdom
+7 000 000 
+

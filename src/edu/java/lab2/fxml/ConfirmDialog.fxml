@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="180.0" prefWidth="420.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.java.lab2.controllers.ConfirmDialogController">
+   <children>
+      <HBox prefHeight="50.0" prefWidth="420.0">
+         <children>
+            <Label fx:id="lbQuestion" alignment="CENTER" prefHeight="21.0" prefWidth="420.0" text="Вы хотите сохранить изменения в файле?">
+               <HBox.margin>
+                  <Insets top="20.0" />
+               </HBox.margin>
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </HBox>
+      <HBox layoutX="10.0" layoutY="10.0" prefHeight="70.0" prefWidth="420.0">
+         <children>
+            <Label fx:id="lbPath" alignment="CENTER" prefWidth="420.0">
+               <HBox.margin>
+                  <Insets bottom="40.0" />
+               </HBox.margin>
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </HBox>
+      <HBox prefHeight="60.0" prefWidth="420.0">
+         <children>
+            <Button fx:id="butDoSave" defaultButton="true" mnemonicParsing="false" onAction="#actionSave" prefWidth="120.0" text="Сохранить">
+               <HBox.margin>
+                  <Insets left="80.0" right="5.0" top="22.0" />
+               </HBox.margin>
+            </Button>
+            <Button fx:id="butDoNotSave" mnemonicParsing="false" onAction="#actionNotSave" prefWidth="120.0" text="Не сохранять">
+               <HBox.margin>
+                  <Insets right="5.0" top="22.0" />
+               </HBox.margin>
+            </Button>
+            <Button fx:id="butCancel" cancelButton="true" mnemonicParsing="false" onAction="#actionClose" prefWidth="80.0" text="Отмена">
+               <HBox.margin>
+                  <Insets top="22.0" />
+               </HBox.margin>
+            </Button>
+         </children>
+      </HBox>
+   </children>
+</VBox>

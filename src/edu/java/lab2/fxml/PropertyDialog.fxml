@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="300.0" prefWidth="520.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.java.lab2.controllers.PropertyDialogController">
+   <children>
+      <Label fx:id="lbName" alignment="CENTER" prefWidth="520.0">
+         <font>
+            <Font size="18.0" />
+         </font>
+         <VBox.margin>
+            <Insets top="10.0" />
+         </VBox.margin>
+      </Label>
+      <HBox prefHeight="19.0" prefWidth="600.0">
+         <children>
+            <Label fx:id="lbProducer" prefHeight="35.0" prefWidth="123.0" text="Производитель">
+               <HBox.margin>
+                  <Insets left="20.0" />
+               </HBox.margin>
+            </Label>
+            <TextField fx:id="txtProducer" prefHeight="31.0" prefWidth="365.0">
+               <HBox.margin>
+                  <Insets right="20.0" />
+               </HBox.margin>
+            </TextField>
+         </children>
+         <VBox.margin>
+            <Insets bottom="10.0" top="15.0" />
+         </VBox.margin>
+      </HBox>
+      <HBox layoutX="10.0" layoutY="163.0" prefHeight="19.0" prefWidth="600.0">
+         <children>
+            <Label fx:id="lbModel" prefHeight="35.0" prefWidth="123.0" text="Модель">
+               <HBox.margin>
+                  <Insets left="20.0" />
+               </HBox.margin>
+            </Label>
+            <TextField fx:id="txtModel" prefHeight="31.0" prefWidth="365.0">
+               <HBox.margin>
+                  <Insets right="20.0" />
+               </HBox.margin>
+            </TextField>
+         </children>
+         <padding>
+            <Insets bottom="10.0" />
+         </padding>
+      </HBox>
+      <HBox layoutX="10.0" layoutY="10.0" prefHeight="19.0" prefWidth="600.0">
+         <children>
+            <Label fx:id="lbRelease" prefHeight="35.0" prefWidth="123.0" text="Год Выпуска ">
+               <HBox.margin>
+                  <Insets left="20.0" />
+               </HBox.margin>
+            </Label>
+            <ComboBox fx:id="comboxRelease" maxHeight="-Infinity" minHeight="-Infinity" prefHeight="25.0" prefWidth="365.0">
+               <HBox.margin>
+                  <Insets right="20.0" />
+               </HBox.margin>
+            </ComboBox>
+         </children>
+         <VBox.margin>
+            <Insets bottom="10.0" />
+         </VBox.margin>
+      </HBox>
+      <HBox layoutX="10.0" layoutY="41.0" prefHeight="19.0" prefWidth="600.0">
+         <children>
+            <Label fx:id="lbBirthplace" prefHeight="35.0" prefWidth="123.0" text="Страна сборки">
+               <HBox.margin>
+                  <Insets left="20.0" />
+               </HBox.margin>
+            </Label>
+            <ComboBox fx:id="comboxBirthplace" maxHeight="-Infinity" minHeight="-Infinity" prefHeight="25.0" prefWidth="365.0">
+               <HBox.margin>
+                  <Insets right="20.0" />
+               </HBox.margin>
+            </ComboBox>
+         </children>
+         <padding>
+            <Insets bottom="10.0" />
+         </padding>
+      </HBox>
+      <HBox layoutX="10.0" layoutY="122.0" prefHeight="19.0" prefWidth="600.0">
+         <children>
+            <Label fx:id="lbOwner" prefHeight="35.0" prefWidth="123.0" text="Владелец">
+               <HBox.margin>
+                  <Insets left="20.0" />
+               </HBox.margin>
+            </Label>
+            <ComboBox fx:id="comboxOwner" maxHeight="-Infinity" minHeight="-Infinity" prefHeight="25.0" prefWidth="365.0">
+               <HBox.margin>
+                  <Insets right="20.0" />
+               </HBox.margin>
+            </ComboBox>
+         </children>
+         <padding>
+            <Insets bottom="10.0" />
+         </padding>
+      </HBox>
+      <HBox prefHeight="36.0" prefWidth="520.0">
+         <children>
+            <Button fx:id="butConfirm" defaultButton="true" mnemonicParsing="false" onAction="#actionConfirm" prefWidth="80.0" text="ОК">
+               <HBox.margin>
+                  <Insets left="175.0" right="10.0" />
+               </HBox.margin>
+            </Button>
+            <Button fx:id="butCancel" cancelButton="true" mnemonicParsing="false" onAction="#actionClose" prefWidth="80.0" text="Отмена" />
+         </children>
+         <padding>
+            <Insets top="20.0" />
+         </padding>
+      </HBox>
+   </children>
+</VBox>

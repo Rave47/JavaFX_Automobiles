@@ -1,0 +1,1725 @@
+Andrei (admin)
+ 
+26.12.17, 0:23
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 0:23
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 0:23
+Object editing {Mitsubishi Lancer 2011 Japan 600 000 }
+
+Andrei (admin)
+base.txt
+26.12.17, 0:23
+Object edit result: {Mitsubishi Lancer 2012 Japan 600 000 }
+
+Andrei (admin)
+base.txt
+26.12.17, 0:24
+Object deleted {Renault Logan 2016 Russia 600 000 }
+
+Andrei (admin)
+base.txt
+26.12.17, 0:25
+Object deleted {Bentley Continental 2010 United Kingdom 7 000 000 }
+
+Andrei (admin)
+base1.txt
+26.12.17, 0:25
+File saved as base1.txt
+
+Andrei (admin)
+ 
+26.12.17, 1:02
+Logged in
+
+Andrei (admin)
+ 
+26.12.17, 1:02
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 1:02
+Logged in
+
+Andrei (admin)
+ 
+26.12.17, 1:02
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 1:05
+Logged in
+
+Andrei (admin)
+ 
+26.12.17, 1:06
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 1:09
+Logged in
+
+Andrei (admin)
+ 
+26.12.17, 1:10
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 1:17
+Logged in
+
+Andrei (admin)
+ 
+26.12.17, 1:17
+Logged out
+
+Nikita (mrbender)
+ 
+26.12.17, 10:55
+Logged in
+
+Nikita (mrbender)
+base.txt
+26.12.17, 10:56
+File opened
+
+Nikita (mrbender)
+base.txt
+26.12.17, 11:08
+Object deleted {Ford Mustang 2007 USA 2 700 000 }
+
+Nikita (mrbender)
+base.txt
+26.12.17, 11:10
+Report Generated
+
+Nikita (mrbender)
+base.txt
+26.12.17, 11:12
+Report Generated
+
+Nikita (mrbender)
+base.txt
+26.12.17, 11:22
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 11:49
+Logged in
+
+Andrei (admin)
+damaged.txt
+26.12.17, 11:50
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 11:50
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 11:50
+Object editing {Audi A4 2015 Germany 2 200 000 }
+
+Andrei (admin)
+base.txt
+26.12.17, 11:50
+Object edit result: {Audi A5 2015 Germany 2 200 000 }
+
+Andrei (admin)
+base.txt
+26.12.17, 11:50
+Object editing {Audi A5 2015 Germany 2 200 000 }
+
+Andrei (admin)
+base.txt
+26.12.17, 11:51
+Object deleted {Renault Logan 2016 Russia 600 000 }
+
+Andrei (admin)
+base.txt
+26.12.17, 11:51
+Logged out
+
+Sergey (sergei)
+ 
+26.12.17, 14:49
+Logged in
+
+Sergey (sergei)
+base.txt
+26.12.17, 14:50
+File opened
+
+Sergey (sergei)
+base.txt
+26.12.17, 14:51
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 14:51
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 14:51
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 14:56
+Object editing {Audi A4 2015 Germany 2 200 000 }
+
+Andrei (admin)
+base.txt
+26.12.17, 15:03
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 15:07
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 15:18
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 15:46
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 15:47
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 15:47
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 15:48
+Object deleted {Asvs Ssfdvs 2015 Canada 2 000 000 }
+
+Andrei (admin)
+base.txt
+26.12.17, 15:50
+Report Generated
+
+Andrei (admin)
+base.txt
+26.12.17, 15:53
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 17:57
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 17:57
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 17:57
+Object editing {Volkswagen Polo 2017 Russia 650 000 }
+
+Andrei (admin)
+base.txt
+26.12.17, 17:59
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 18:00
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 18:00
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 18:00
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 18:51
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 18:51
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 18:51
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 18:53
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 18:53
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 18:53
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 18:55
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 18:55
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 18:55
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 18:57
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 18:57
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 18:57
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 18:58
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 18:58
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 18:59
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 19:03
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 19:03
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 19:03
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 19:04
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 19:04
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 19:04
+Object editing {KIA Cerato 2014 South Korea Andrei (admin) }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:04
+Object editing {Hyndai Elantra 2012 South Korea Nikita (mrbender)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:05
+Object editing {Mitsubishi Lancer 2011 Japan  }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:05
+Object editing {Renault Logan 2016 Russia Andrei (admin) }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:05
+Object editing {KIA Cerato 2014 South Korea Andrei (admin) }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:05
+Object editing {Hyndai Elantra 2012 South Korea Nikita (mrbender)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:07
+Object editing {KIA Cerato 2014 South Korea Andrei (admin) }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:07
+Object editing {Mitsubishi Lancer 2011 Japan  }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:08
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 19:08
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 19:08
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 19:10
+Object editing {KIA Cerato 2014 South Korea Andrei (admin) }
+
+Andrei (admin)
+ 
+26.12.17, 19:10
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 19:10
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 19:12
+Object editing {KIA Cerato 2014 South Korea Andrei (admin) }
+
+Andrei (admin)
+ 
+26.12.17, 19:13
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 19:13
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 19:13
+Object editing {KIA Cerato 2014 South Korea Andrei (admin) }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:13
+Object editing {Hyndai Elantra 2012 South Korea Nikita (mrbender)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:13
+Object editing {Mitsubishi Lancer 2011 Japan  }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:13
+Object editing {Audi A4 2015 Germany  }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:14
+Object editing {KIA Cerato 2014 South Korea Andrei (admin) }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:14
+Object editing {Hyndai Elantra 2012 South Korea Nikita (mrbender)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:14
+Object editing {KIA Cerato 2014 South Korea Andrei (admin) }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:14
+Object editing {Renault Logan 2016 Russia Andrei (admin) }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:14
+Object editing {Ferrari 458 2014 Italy  }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:14
+Object editing {Volkswagen Jetta 2017 Russia Andrei (admin) }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:14
+Object editing {Hyndai Elantra 2012 South Korea Nikita (mrbender)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:14
+Object editing {KIA Cerato 2014 South Korea Andrei (admin) }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:14
+Object editing {Audi A4 2015 Germany  }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:15
+Object editing {BMW X5 2013 Germany Andrei (admin)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:15
+Object editing {Volkswagen Polo 2017 Russia Andrei (admin) }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:15
+Object editing {Renault Logan 2016 Russia Andrei (admin) }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:15
+Object editing {Volkswagen Jetta 2017 Russia Andrei (admin) }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:15
+Object editing {KIA Cerato 2014 South Korea Andrei (admin) }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:15
+Object editing {Audi A4 2015 Germany  }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:15
+Object editing {KIA Cerato 2014 South Korea Andrei (admin) }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:15
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 19:16
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 19:16
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 19:17
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 19:19
+Logged in
+
+Andrei (admin)
+ 
+26.12.17, 19:19
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 19:20
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 19:20
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 19:20
+Object editing {KIA Cerato 2014 South Korea Andrei (admin) }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:20
+Object editing {Hyndai Elantra 2012 South Korea Nikita (mrbender)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:20
+Object editing {Audi A4 2015 Germany  }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:20
+Object editing {BMW X5 2013 Germany Andrei (admin)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:21
+Object editing {KIA Cerato 2014 South Korea Andrei (admin) }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:21
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 19:24
+Logged in
+
+Andrei (admin)
+ 
+26.12.17, 19:24
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 19:24
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 19:24
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 19:25
+Object editing {KIA Cerato 2014 South Korea Andrei (admin) }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:25
+Object editing {Audi A4 2015 Germany  }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:25
+Object editing {Hyndai Elantra 2012 South Korea Nikita (mrbender)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:25
+Object editing {KIA Cerato 2014 South Korea Andrei (admin) }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:25
+Object editing {Renault Logan 2016 Russia Andrei (admin) }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:25
+Object editing {BMW X5 2013 Germany Andrei (admin)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:26
+Object editing {Mitsubishi Lancer 2011 Japan  }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:26
+Object editing {Hyndai Elantra 2012 South Korea Nikita (mrbender)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:26
+Object editing {KIA Cerato 2014 South Korea Andrei (admin) }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:26
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 19:27
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 19:27
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 19:27
+Object editing {Hyndai Elantra 2012 South Korea Nikita (mrbender)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:27
+Object editing {KIA Cerato 2014 South Korea Andrei (admin) }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:27
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 19:30
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 19:30
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 19:32
+Object editing {Hyndai Elantra 2012 South Korea Nikita (mrbender)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:36
+Object editing {KIA Cerato 2014 South Korea Andrei (admin) }
+
+Andrei (admin)
+ 
+26.12.17, 19:37
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 19:37
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 19:37
+Object editing {Hyndai Elantra 2012 South Korea Nikita (mrbender)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:38
+Object editing {KIA Cerato 2014 South Korea Andrei (admin) }
+
+Andrei (admin)
+ 
+26.12.17, 19:38
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 19:38
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 19:39
+Object editing {Hyndai Elantra 2012 South Korea Nikita (mrbender)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:45
+Object editing {KIA Cerato 2014 South Korea Andrei (admin) }
+
+Andrei (admin)
+ 
+26.12.17, 19:45
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 19:45
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 19:46
+Object editing {KIA Cerato 2014 South Korea Andrei (admin) }
+
+Andrei (admin)
+ 
+26.12.17, 19:47
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 19:47
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 19:47
+Object editing {KIA Cerato 2014 South Korea Andrei (admin)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:47
+Object editing {KIA Rio 2016 South Korea  }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:47
+Object editing {Hyndai Elantra 2012 South Korea Nikita (mrbender)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:47
+Object editing {Mitsubishi ASX 2016 Japan  }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:47
+Object editing {KIA Cerato 2014 South Korea Andrei (admin)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:47
+Object editing {Hyndai Elantra 2012 South Korea Nikita (mrbender)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:47
+Object editing {Audi A4 2015 Germany  }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:47
+Object editing {KIA Cerato 2014 South Korea Andrei (admin)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:48
+Object editing {Hyndai Elantra 2012 South Korea Nikita (mrbender)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:48
+Object editing {Hyndai Elantra 2012 South Korea Nikita (mrbender)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:48
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 19:49
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 19:49
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 19:49
+Object editing {Renault Logan 2016 Russia Andrei (admin)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:49
+Object edit result: {Renault Logan 2016 Russia Sergey (sergei)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:49
+File saved
+
+Andrei (admin)
+ 
+26.12.17, 19:49
+Object deleted {KIA Cerato 2014 South Korea Andrei (admin)}
+
+Andrei (admin)
+ 
+26.12.17, 19:49
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 19:50
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 19:50
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 19:50
+Object editing {Volkswagen Polo 2017 Russia Andrei (admin)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:50
+Object edit result: {Volkswagen Polo 2017 Russia Ekaterina (kater)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:52
+File saved
+
+Andrei (admin)
+base.txt
+26.12.17, 19:52
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 19:55
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 19:55
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 19:55
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 19:57
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 19:57
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 19:57
+Object editing {Volkswagen Jetta 2017 Russia Andrei (admin)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:58
+Object editing {Audi A4 2015 Germany  }
+
+Andrei (admin)
+base.txt
+26.12.17, 19:58
+Object editing {Hyndai Elantra 2012 South Korea Nikita (mrbender)}
+
+Andrei (admin)
+base.txt
+26.12.17, 19:58
+Logged out
+
+Nikita (mrbender)
+ 
+26.12.17, 19:58
+Logged in
+
+Nikita (mrbender)
+base.txt
+26.12.17, 19:58
+File opened
+
+Nikita (mrbender)
+base.txt
+26.12.17, 19:58
+Object editing {KIA Cerato 2014 South Korea Andrei (admin)}
+
+Nikita (mrbender)
+base.txt
+26.12.17, 19:58
+Object editing {Audi A4 2015 Germany  }
+
+Nikita (mrbender)
+base.txt
+26.12.17, 19:59
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 20:15
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 20:15
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 20:16
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 20:17
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 20:17
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 20:18
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 20:20
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 20:20
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 20:20
+Object editing {Mitsubishi ASX 2016 Japan  }
+
+Andrei (admin)
+base.txt
+26.12.17, 20:21
+Object editing {Volkswagen Polo 2017 Russia Ekaterina (kater)}
+
+Andrei (admin)
+base.txt
+26.12.17, 20:21
+Object deleted {Volkswagen Polo 2017 Russia Ekaterina (kater)}
+
+Andrei (admin)
+base.txt
+26.12.17, 20:21
+Object deleted {BMW X5 2013 Germany Andrei (admin)}
+
+Andrei (admin)
+base.txt
+26.12.17, 20:21
+Object deleted {Renault Logan 2016 Russia Sergey (sergei)}
+
+Andrei (admin)
+base.txt
+26.12.17, 20:21
+Object deleted {Volkswagen Jetta 2017 Russia Andrei (admin)}
+
+Andrei (admin)
+base.txt
+26.12.17, 20:21
+Object deleted {KIA Cerato 2014 South Korea Andrei (admin)}
+
+Andrei (admin)
+base.txt
+26.12.17, 20:21
+Object deleted {Mitsubishi ASX 2016 Japan  }
+
+Andrei (admin)
+base.txt
+26.12.17, 20:21
+Object deleted {Audi A4 2015 Germany  }
+
+Andrei (admin)
+base.txt
+26.12.17, 20:21
+Object deleted {Ferrari 458 2014 Italy  }
+
+Andrei (admin)
+base.txt
+26.12.17, 20:21
+Object deleted {Mitsubishi Lancer 2011 Japan  }
+
+Andrei (admin)
+base.txt
+26.12.17, 20:21
+Object deleted {KIA Rio 2016 South Korea  }
+
+Andrei (admin)
+base.txt
+26.12.17, 20:21
+Object deleted {Hyndai Elantra 2012 South Korea Nikita (mrbender)}
+
+Andrei (admin)
+base.txt
+26.12.17, 20:21
+Logged out
+
+Nikita (mrbender)
+ 
+26.12.17, 20:23
+Logged in
+
+Nikita (mrbender)
+base.txt
+26.12.17, 20:23
+File opened
+
+Nikita (mrbender)
+base.txt
+26.12.17, 20:23
+Object editing {Renault Logan 2016 Russia Sergey (sergei)}
+
+Nikita (mrbender)
+base.txt
+26.12.17, 20:24
+Object deleted {Volkswagen Jetta 2017 Russia Andrei (admin)}
+
+Nikita (mrbender)
+base.txt
+26.12.17, 20:24
+Logged out
+
+Nikita (mrbender)
+ 
+26.12.17, 20:24
+Logged in
+
+Nikita (mrbender)
+base.txt
+26.12.17, 20:24
+File opened
+
+Nikita (mrbender)
+base.txt
+26.12.17, 20:24
+Object deleted {Ferrari 458 2014 Italy  }
+
+Nikita (mrbender)
+base.txt
+26.12.17, 20:24
+Object deleted {BMW X5 2013 Germany Andrei (admin)}
+
+Nikita (mrbender)
+base.txt
+26.12.17, 20:24
+Object deleted {Volkswagen Polo 2017 Russia Ekaterina (kater)}
+
+Nikita (mrbender)
+base.txt
+26.12.17, 20:24
+Object deleted {Renault Logan 2016 Russia Sergey (sergei)}
+
+Nikita (mrbender)
+base.txt
+26.12.17, 20:24
+Object deleted {Volkswagen Jetta 2017 Russia Andrei (admin)}
+
+Nikita (mrbender)
+base.txt
+26.12.17, 20:24
+Object deleted {KIA Cerato 2014 South Korea Andrei (admin)}
+
+Nikita (mrbender)
+base.txt
+26.12.17, 20:24
+Object deleted {Mitsubishi ASX 2016 Japan  }
+
+Nikita (mrbender)
+base.txt
+26.12.17, 20:24
+Object deleted {Audi A4 2015 Germany  }
+
+Nikita (mrbender)
+base.txt
+26.12.17, 20:24
+Object deleted {Mitsubishi Lancer 2011 Japan  }
+
+Nikita (mrbender)
+base.txt
+26.12.17, 20:24
+Object deleted {KIA Rio 2016 South Korea  }
+
+Nikita (mrbender)
+base.txt
+26.12.17, 20:24
+Object deleted {Hyndai Elantra 2012 South Korea Nikita (mrbender)}
+
+Nikita (mrbender)
+base.txt
+26.12.17, 20:24
+File opened
+
+Nikita (mrbender)
+base.txt
+26.12.17, 20:25
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 20:27
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 20:27
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 20:28
+Object editing {Renault Logan 2016 Russia Sergey (sergei)}
+
+Andrei (admin)
+base.txt
+26.12.17, 20:28
+Object deleted {Audi A4 2015 Germany  }
+
+Andrei (admin)
+base.txt
+26.12.17, 20:28
+Object deleted {Mitsubishi ASX 2016 Japan  }
+
+Andrei (admin)
+base.txt
+26.12.17, 20:28
+Object deleted {KIA Cerato 2014 South Korea Andrei (admin)}
+
+Andrei (admin)
+base.txt
+26.12.17, 20:28
+Object deleted {Volkswagen Jetta 2017 Russia Andrei (admin)}
+
+Andrei (admin)
+base.txt
+26.12.17, 20:28
+Object deleted {Renault Logan 2016 Russia Sergey (sergei)}
+
+Andrei (admin)
+base.txt
+26.12.17, 20:28
+Object deleted {Volkswagen Polo 2017 Russia Ekaterina (kater)}
+
+Andrei (admin)
+base.txt
+26.12.17, 20:28
+Object deleted {BMW X5 2013 Germany Andrei (admin)}
+
+Andrei (admin)
+base.txt
+26.12.17, 20:28
+Object deleted {Ferrari 458 2014 Italy  }
+
+Andrei (admin)
+base.txt
+26.12.17, 20:28
+Object deleted {Mitsubishi Lancer 2011 Japan  }
+
+Andrei (admin)
+base.txt
+26.12.17, 20:28
+Object deleted {KIA Rio 2016 South Korea  }
+
+Andrei (admin)
+base.txt
+26.12.17, 20:28
+Object deleted {Hyndai Elantra 2012 South Korea Nikita (mrbender)}
+
+Andrei (admin)
+base.txt
+26.12.17, 20:28
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 20:28
+Object deleted {Mitsubishi Lancer 2011 Japan  }
+
+Andrei (admin)
+base.txt
+26.12.17, 20:28
+Object deleted {Ferrari 458 2014 Italy  }
+
+Andrei (admin)
+base.txt
+26.12.17, 20:29
+Object deleted {Hyndai Elantra 2012 South Korea Nikita (mrbender)}
+
+Andrei (admin)
+base.txt
+26.12.17, 20:29
+Object deleted {BMW X5 2013 Germany Andrei (admin)}
+
+Andrei (admin)
+base.txt
+26.12.17, 20:29
+Object deleted {Volkswagen Polo 2017 Russia Ekaterina (kater)}
+
+Andrei (admin)
+base.txt
+26.12.17, 20:29
+Object deleted {Renault Logan 2016 Russia Sergey (sergei)}
+
+Andrei (admin)
+base.txt
+26.12.17, 20:29
+Object deleted {Volkswagen Jetta 2017 Russia Andrei (admin)}
+
+Andrei (admin)
+base.txt
+26.12.17, 20:29
+Object deleted {KIA Cerato 2014 South Korea Andrei (admin)}
+
+Andrei (admin)
+base.txt
+26.12.17, 20:29
+Object deleted {Mitsubishi ASX 2016 Japan  }
+
+Andrei (admin)
+base.txt
+26.12.17, 20:29
+Object deleted {Audi A4 2015 Germany  }
+
+Andrei (admin)
+base.txt
+26.12.17, 20:29
+Object deleted {KIA Rio 2016 South Korea  }
+
+Andrei (admin)
+ 
+26.12.17, 20:30
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 20:30
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 20:32
+Object editing {KIA Cerato 2014 South Korea Andrei (admin)}
+
+Andrei (admin)
+base.txt
+26.12.17, 20:32
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 20:40
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 20:41
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 20:41
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 20:43
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 20:43
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 20:44
+Object reserved {Audi A4 2015 Germany Andrei (admin)}
+
+Andrei (admin)
+base.txt
+26.12.17, 20:45
+Object reserved {Mitsubishi ASX 2016 Japan Andrei (admin)}
+
+Andrei (admin)
+base.txt
+26.12.17, 20:45
+Object unreserved {Mitsubishi ASX 2016 Japan  }
+
+Andrei (admin)
+base.txt
+26.12.17, 20:45
+Object editing {KIA Cerato 2014 South Korea Andrei (admin)}
+
+Andrei (admin)
+base.txt
+26.12.17, 20:45
+Object edit result: {KIA Cerato 2014 South Korea  }
+
+Andrei (admin)
+base.txt
+26.12.17, 20:46
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 20:49
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 20:49
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 20:49
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 20:50
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 20:50
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 20:51
+Object unreserved {Volkswagen Jetta 2017 Russia}
+
+Andrei (admin)
+base.txt
+26.12.17, 20:52
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 21:01
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 21:01
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 21:01
+Logged out
+
+Sergey (sergei)
+ 
+26.12.17, 21:02
+Logged in
+
+Sergey (sergei)
+base.txt
+26.12.17, 21:02
+File opened
+
+Sergey (sergei)
+base.txt
+26.12.17, 21:05
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 21:06
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 21:06
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 21:07
+Object editing {KIA Cerato 2014 South Korea Andrei (admin)}
+
+Andrei (admin)
+base.txt
+26.12.17, 21:22
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 21:38
+Logged in
+
+Andrei (admin)
+ 
+26.12.17, 22:43
+Logged out
+
+Sergey (sergei)
+ 
+26.12.17, 22:43
+Logged in
+
+Sergey (sergei)
+base.txt
+26.12.17, 22:49
+File opened
+
+Sergey (sergei)
+base.txt
+26.12.17, 22:49
+Logged out
+
+Andrei (admin)
+ 
+26.12.17, 22:49
+Logged in
+
+Andrei (admin)
+base.txt
+26.12.17, 22:49
+File opened
+
+Andrei (admin)
+base.txt
+26.12.17, 22:51
+Object deleted {Mitsubishi ASX 2016 Japan  }
+
+Andrei (admin)
+base.txt
+26.12.17, 22:54
+Object editing {KIA Cerato 2014 South Korea Andrei (admin)}
+
+Andrei (admin)
+ 
+26.12.17, 23:06
+Object unreserved {KIA Cerato 2014 South Korea}
+
+Andrei (admin)
+ 
+26.12.17, 23:22
+Logged out
+
+Andrei (admin)
+ 
+28.12.17, 16:25
+Logged in
+
+Andrei (admin)
+ 
+28.12.17, 16:32
+Logged out
+
+Andrei (admin)
+ 
+28.12.17, 16:34
+Logged in
+
+Andrei (admin)
+ 
+28.12.17, 16:34
+New File Created
+
+Andrei (admin)
+ 
+28.12.17, 16:56
+Logged out
+
+Andrei (admin)
+ 
+28.12.17, 16:58
+Logged in
+
+Andrei (admin)
+base.txt
+28.12.17, 16:58
+File opened
+
+Andrei (admin)
+base.txt
+28.12.17, 16:58
+Object reserved {Mitsubishi ASX 2016 Japan}
+
+Andrei (admin)
+base.txt
+28.12.17, 16:59
+Object unreserved {Mitsubishi ASX 2016 Japan}
+
+Andrei (admin)
+base.txt
+28.12.17, 16:59
+Object editing {Mitsubishi ASX 2016 Japan  }
+
+Andrei (admin)
+base.txt
+28.12.17, 16:59
+Logged out
+
+Andrei (admin)
+ 
+28.12.17, 18:49
+Logged in
+
+Andrei (admin)
+base.txt
+28.12.17, 18:49
+File opened
+
+Andrei (admin)
+base.txt
+28.12.17, 18:50
+Logged out
+
+Andrei (admin)
+ 
+28.12.17, 18:53
+Logged in
+
+Andrei (admin)
+base.txt
+28.12.17, 18:53
+File opened
+
+Andrei (admin)
+base.txt
+28.12.17, 18:53
+Object deleted {Mitsubishi Lancer 2011 Japan  }
+
+Andrei (admin)
+base.txt
+28.12.17, 18:53
+Logged out
+
+Andrei (admin)
+ 
+28.12.17, 18:55
+Logged in
+
+Andrei (admin)
+base.txt
+28.12.17, 18:55
+File opened
+
+Andrei (admin)
+base.txt
+28.12.17, 18:55
+Object reserved {Mitsubishi ASX 2016 Japan}
+
+Andrei (admin)
+base.txt
+28.12.17, 18:55
+Object reserved {Audi A4 2015 Germany}
+
+Andrei (admin)
+base.txt
+28.12.17, 18:56
+Object unreserved {Audi A4 2015 Germany}
+
+Andrei (admin)
+base.txt
+28.12.17, 18:56
+Object editing {Renault Logan 2016 Russia Sergey (sergei)}
+
+Andrei (admin)
+base.txt
+28.12.17, 18:56
+Logged out
+
+Sergey (sergei)
+ 
+28.12.17, 18:56
+Logged in
+
+Sergey (sergei)
+base.txt
+28.12.17, 18:56
+File opened
+
+Sergey (sergei)
+base.txt
+28.12.17, 18:56
+Object unreserved {Renault Logan 2016 Russia}
+
+Sergey (sergei)
+base.txt
+28.12.17, 18:56
+Object reserved {Renault Logan 2016 Russia}
+
+Sergey (sergei)
+base.txt
+28.12.17, 18:56
+Object editing {Renault Logan 2016 Russia Sergey (sergei)}
+
+Sergey (sergei)
+base.txt
+28.12.17, 18:56
+Object editing {Volkswagen Jetta 2017 Russia Andrei (admin)}
+
+Sergey (sergei)
+base.txt
+28.12.17, 18:58
+Logged out
+
+Andrei (admin)
+ 
+15.01.18, 1:23
+Logged in
+
+Andrei (admin)
+base.txt
+15.01.18, 1:23
+File opened
+
+Andrei (admin)
+base.txt
+15.01.18, 1:23
+Object editing {Hyndai Elantra 2012 South Korea Nikita (mrbender)}
+
+Andrei (admin)
+base.txt
+15.01.18, 1:25
+Logged out
+
